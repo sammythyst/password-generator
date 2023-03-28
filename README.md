@@ -1,6 +1,9 @@
 # Password Generator
 Module 3 Challenge - JavaScript
 
+[Password Generator](https://sammythyst.github.io/password-generator/)
+![Password Generator](Assets/03-javascript-homework-demo.png)
+
 ## Description
 The purpose of this project is to allow users to create uniquely generated passwords for whatever they may need a password for. This password generator allows users to customize their passwords in the sense of allowing custom length as well as the inclusion (or exclusion) of lowercase and uppercase letters, numbers, and select special characters.
 
